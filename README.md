@@ -18,3 +18,7 @@ Get as many eggs in the egg-basket as you can. But attention:
 - green eggs: don't catch the rotten eggs or its odor will stun you (-20 points per egg)
 - carrot: will decrease the amount of broken eggs (+100 points!!)
 - grenade: never allow a grenade to fall on the ground ... you can guess why!
+
+# Website
+
+Visit http://www.hwhardsoft.de/english/projects/my-euzebox-games/
